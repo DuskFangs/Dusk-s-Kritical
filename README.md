@@ -17,4 +17,4 @@ There Are 2 Main Attributes Currently Used By This Mod.
 
 ```AdditionalEntityAttributes.CRITICAL_BONUS_DAMAGE | Default : 0.5 | Minimum : -1 | Maximum : 1024```
 
-**I Highly Recommend Using The Mod Alongside Somthing Like[Pufferfish's Skills](https://modrinth.com/mod/skills)**
+**I Highly Recommend Using The Mod Alongside Somthing Like [Pufferfish's Skills](https://modrinth.com/mod/skills)**
